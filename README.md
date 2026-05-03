@@ -8,7 +8,7 @@ A simple, fast, and free web-based money tracker that helps you manage your dail
 
 🚀 Live Demo
 
-👉 https://yourusername.github.io/mymoney-tracker/
+👉 https://0xzro.github.io/mymoney-tracker/
 
 ---
 
